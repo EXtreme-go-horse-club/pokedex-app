@@ -1,9 +1,16 @@
 # Pokedex-react
 
-<img src="./.github/home.png" alt="exemplo imagem">
+### Home
 
-<img src="./.github/pokedex.png" alt="exemplo imagem">
+<img src="./.github/home.png" alt="home do projeto">
 
+### Pokedex
+
+<img src="./.github/pokedex.png" alt="Pokedex">
+
+### Detalhe do pokemon
+
+<img src="./.github/detalhe-pokemon.png" alt="Detalhe do pokemon">
 > Projeto desenvolvimento para consultar a API pública do pokemon. É uma pokedex, pesquise seu pokemon favorito.
 
 ## 💻 Pré-requisitos
