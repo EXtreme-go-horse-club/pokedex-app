@@ -1,46 +1,79 @@
-# Getting Started with Create React App
+# Pokedex-react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./.github/home.png" alt="exemplo imagem">
 
-## Available Scripts
+<img src="./.github/pokedex.png" alt="exemplo imagem">
 
-In the project directory, you can run:
+> Projeto desenvolvimento para consultar a API pública do pokemon. É uma pokedex, pesquise seu pokemon favorito.
 
-### `npm start`
+## 💻 Pré-requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Você tem uma máquina `Windows / Linux / Mac`?
+- Você instalou o [`Node`](https://nodejs.org/en/) em sua máquina?
+- Você instalou o [`Yarn`](https://yarnpkg.com/) em sua máquina?
 
-### `npm test`
+## 🚀 Instalando Pokedex-react
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para instalar o Pokedex-react, siga estas etapas:
 
-### `npm run build`
+1. Clone o repositório do projeto: `git clone https://github.com/EXtreme-go-horse-club/pokedex-app.git`.
+2. Na raiz do projeto rode o comando `yarn` para instalar as dependências.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ☕ Rodando o Pokedex-react
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para rodar o Pokedex-react, siga estas etapas:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Execute o comando `yarn start` na raiz do projeto após ter instalado as dependências.
 
-### `npm run eject`
+> Obs.: O projeto será executado em `http://localhost:3000/`.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤝 Colaboradores
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/EduardoMarquesCardozo">
+        <img src="https://avatars.githubusercontent.com/u/79146964?v=4" style="border-radius: 50px" width="100px;" alt="Foto do Eduardo Marques Cardozo no GitHub"/><br>
+        <sub>
+          <b>Eduardo Marques Cardozo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guilhermeafonsomb">
+        <img src="https://avatars.githubusercontent.com/u/83605390?v=4" style="border-radius: 50px" width="100px;" alt="Foto do Guilherme Afonso no GitHub"/><br>
+        <sub>
+          <b>Guilherme Afonso</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/msalarini">
+        <img src="https://avatars.githubusercontent.com/u/72809258?v=4" style="border-radius: 50px" width="100px;" alt="Foto do Marcus Salarini no GitHub"/><br>
+        <sub>
+          <b>Marcus Salarini</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/disgnr">
+        <img src="https://avatars.githubusercontent.com/u/4467120?v=4" style="border-radius: 50px" width="100px;" alt="Foto do Diego Velazquez no GitHub"/><br>
+        <sub>
+          <b>Diego Velazquez</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MCastegnaro">
+        <img src="https://avatars.githubusercontent.com/u/15204649?v=4" style="border-radius: 50px" width="100px;" alt="Foto do Matheus Castegnaro no GitHub"/><br>
+        <sub>
+          <b>Matheus Castegnaro</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
