@@ -11,6 +11,7 @@
 ### Detalhe do pokemon
 
 <img src="./.github/detalhe-pokemon.png" alt="Detalhe do pokemon">
+
 > Projeto desenvolvimento para consultar a API pública do pokemon. É uma pokedex, pesquise seu pokemon favorito.
 
 ## 💻 Pré-requisitos
